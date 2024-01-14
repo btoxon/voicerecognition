@@ -11,7 +11,6 @@
 ### 1. How to Use:
 Clone the repository:
 git clone https://github.com/btoxon/voicerecognition.git
-#### cd voicerecognition
 
 ### 2. Run the script:
 python speech_recognition.py

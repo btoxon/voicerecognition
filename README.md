@@ -13,7 +13,7 @@ git clone https://github.com/btoxon/voicerecognition.git
 #### cd voicerecognition
 
 ### 2. Run the script:
-python voice_recognition.py
+python speech_recognition.py
 
 The program will prompt you to speak. After a short pause, it will attempt to recognize your speech and print the result.
 

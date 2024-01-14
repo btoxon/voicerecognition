@@ -1,11 +1,11 @@
 # Voice Recognition App
-## This Python script demonstrates a basic voice recognition app using the SpeechRecognition library and Google Web Speech API.
+### This Python script demonstrates a basic voice recognition app using the Speech Recognition library and Google Web Speech API.
 
-#Requirements
-Python 3.x
-SpeechRecognition library
+# Requirements
+1. Python 3.x
+2. SpeechRecognition library
 
-Install the required library using:
+### Install the required library using:
 pip install SpeechRecognition
 
 1. How to Use:

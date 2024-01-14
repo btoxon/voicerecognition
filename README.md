@@ -19,7 +19,9 @@ The program will prompt you to speak. After a short pause, it will attempt to re
 
 ### Notes:
 -Make sure you have a working microphone connected to your system.
+
 -An internet connection is required for using the Google Web Speech API.
+
 -The script uses the Google Web Speech API, which may have usage limitations.
 
 ### Contributions

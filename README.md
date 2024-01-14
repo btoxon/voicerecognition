@@ -10,7 +10,7 @@
 ### 1. How to Use:
 Clone the repository:
 git clone https://github.com/btoxon/voicerecognition.git
-cd voice-recognition-app
+##### cd voicerecognition
 
 ### 2. Run the script:
 python voice_recognition.py

@@ -27,8 +27,5 @@ The program will prompt you to speak. After a short pause, it will attempt to re
 ### Contributions
 Feel free to contribute by submitting issues or pull requests. Any feedback or improvements are highly appreciated!
 
-### License
-This project is licensed under the MIT License - refer to the LICENSE file for details.
-
 
 
